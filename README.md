@@ -1,4 +1,6 @@
 # Ladybird
+![ladybird](https://github.com/user-attachments/assets/edefd987-4b3d-4572-9ddc-c2c40af906cd)
+
 
 [Ladybird](https://ladybird.org) is a truly independent web browser, using a novel engine based on web standards.
 
